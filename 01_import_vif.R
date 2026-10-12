@@ -24,7 +24,7 @@ rm(list = ls())
 # --- CONFIGURATION ---------------------------------------------------------
 
 ROOT_DATA <- "C:/Users/Dell/Desktop/codici tesi/file GIS"
-ROOT_OUT  <- "C:/Users/Dell/Desktop/codici articolo/Nuove_analisi"
+ROOT_OUT  <- "C:/Users/Dell/Desktop/codici articolo"
 
 DIR_TAB <- file.path(ROOT_OUT, "tables")
 DIR_WS  <- file.path(ROOT_OUT, "workspace")
